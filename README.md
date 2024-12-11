@@ -33,7 +33,7 @@ Siga os passos abaixo para configurar e rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/chatBotApi.git
+   git clone https://github.com/Ogarit/chatBotApi.git
 2. Navegue até o diretório do projeto:
    ```bash
    cd chatBotApi
